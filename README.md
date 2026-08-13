@@ -1,4 +1,33 @@
-# Module 1 - Introduction to AI & Python
+# AI & Python Basics
+
+## Mini Project: Student Grade Calculator
+
+A command-line program that creates a student report card from entered marks.
+
+### Features
+
+- Accepts marks for any number of subjects
+- Validates that each mark is between 0 and 100
+- Calculates total marks and percentage
+- Assigns a letter grade from A+ to F
+- Shows pass/fail status (50% overall and at least 35 in every subject)
+
+### Run the Project
+
+```bash
+python student_grade_calculator.py
+```
+
+Example result:
+
+```text
+--- Report Card ---
+Student: Alex
+Total: 241.00 / 300
+Percentage: 80.33%
+Grade: A
+Result: Pass
+```
 
 This repository contains my work for **Module 1 (Day 1–Day 4)**. It combines foundational AI notes with beginner Python practice programs.
 
