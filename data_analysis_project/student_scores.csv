@@ -1,0 +1,13 @@
+student,subject,score,study_hours
+Ananya,Python,88,8
+Rahul,Python,72,6
+Meera,Python,91,9
+Kiran,Python,65,5
+Ananya,Mathematics,82,7
+Rahul,Mathematics,,5
+Meera,Mathematics,95,10
+Kiran,Mathematics,58,4
+Ananya,Data Science,90,9
+Rahul,Data Science,76,6
+Meera,Data Science,88,8
+Kiran,Data Science,62,5
